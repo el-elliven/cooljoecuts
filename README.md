@@ -1,24 +1,32 @@
+Welcome to the Cool Joe Cuts Barber shop, a web application built with React JS that allows customers to book appointments with their preferred barber at their convenience
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Sample Look of the Website
 
 </br>
 </br>
-<img src="2020-07-09_21-36-56.png">
+<img src="#">
 </br>
 </br>
 
+## Features
+-User authentication (sign up and login)
+-View available barbers and their schedules
+-Book appointments with a specific barber at a chosen time
+-View and cancel upcoming appointments
+-View past appointment history
+-Receive appointment reminders via email
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Getting Started
+Clone the repository: 
+git clone [https://github.com/el-elliven/cooljoecuts.git]
+Install dependencies: npm install
+Start the development server: npm start
+Open http://localhost:3000 to view the app in the browser.
 
 ### `yarn test`
 
@@ -74,3 +82,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+.
+
+
+
+
+Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request with your changes.
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments
+create-react-app - tool for creating React apps with no build configuration
+React-beautiful-dnd - beautiful and accessible drag and drop for lists with React
+React Router - declarative routing for React.
+Contact
+If you have any questions or issues, please reach out to the maintainer of this repository.
+
+![image](https://user-images.githubusercontent.com/86650329/213140217-6e44c215-9cdd-4d47-aee0-a694232efccc.png)
+
